@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17dbf6f0b53f1b64c842cbedc14903fd, type: 3}
+  m_Name: Cow
+  m_EditorClassIdentifier: 
+  name: Cow
+  description: Muu
+  artwork: {fileID: 21300000, guid: 28a8d25df4c7b0844854fb310a3c877d, type: 3}
+  actionPointsCost: 2
+  lifeCycleDays: 1
+  requieredType: 4
+  requieredQuantity: 1
+  producedType: 3
+  producedQuantity: 1
+  marketCost: 2
